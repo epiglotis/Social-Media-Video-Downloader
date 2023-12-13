@@ -1,9 +1,15 @@
-import Image from 'next/image'
+'use client'
 
-export default function Home() {
+import dynamic from 'next/dynamic';
+import TwitterComponent from './TwitterComponent';
+
+const Twitter: React.FC = () => {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      Twitter
+    <main className='flex min-h-screen flex-col items-center justify-between p-24'>
+      <input></input>
+      <TwitterComponent />
     </main>
-  )
-}
+  );
+};
+
+export default Twitter;
