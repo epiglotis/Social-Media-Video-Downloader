@@ -10,7 +10,7 @@ const Twitter: React.FC = () => {
     <main className='flex min-h-screen flex-col items-center justify-center p-24'>
       <Image src={YoutubeLogo} alt='TwitterLogo' width={100} height={24}/>
       <h1 className='p-5 text-2xl text-center'>
-        Twitter / X Video Downloader
+        Youtube Video Downloader
       </h1>
       {/* <TwitterComponent /> */}
     </main>
