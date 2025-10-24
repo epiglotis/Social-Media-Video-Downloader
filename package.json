@@ -14,11 +14,12 @@
     "@types/react-dom": "18.2.17",
     "autoprefixer": "10.4.16",
     "get-twitter-media": "^2.0.7",
-    "next": "14.0.4",
+    "next": "^16.0.0",
     "postcss": "8.4.32",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
     "tailwindcss": "3.3.6",
-    "typescript": "5.3.3"
+    "typescript": "5.3.3",
+    "youtube-dl-exec": "^3.0.26"
   }
 }
