@@ -38,8 +38,8 @@ export default function Home() {
           <div>
             <h4 className='font-semibold text-blue-800 mb-2'>✅ Desteklenen Platformlar:</h4>
             <ul className='list-disc list-inside ml-4 space-y-1'>
-              <li><strong>Twitter / X:</strong> Aktif (Videolar ve GIF'ler)</li>
-              <li><strong>YouTube:</strong> Aktif (Tüm kaliteler)</li>
+              <li><strong>YouTube:</strong> Aktif (sesli MP4, kalite seçimi)</li>
+              <li><strong>Twitter / X:</strong> Aktif (herkese açık videolar; gerekirse cookies.txt)</li>
               <li><strong>TikTok:</strong> Yakında</li>
             </ul>
           </div>

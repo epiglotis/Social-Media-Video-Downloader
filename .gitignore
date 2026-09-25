@@ -26,6 +26,12 @@ yarn-error.log*
 
 # local env files
 .env*.local
+cookies.txt
+
+# downloads / yt-dlp dumps
+/tmp/
+*.dump
+syndication.json
 
 # vercel
 .vercel
